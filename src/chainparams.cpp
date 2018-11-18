@@ -107,7 +107,7 @@ public:
         nMaturity = 30;
         nMasternodeCountDrift = 30;
         nModifierUpdateBlock = 1;
-        nMaxMoneyOut = 21000000 * COIN;
+        nMaxMoneyOut = 51000000 * COIN;
 
         const char* pszTimestamp = "Economics Nobel Laureate Robert Shiller Examines Bitcoin in Historical Context 2018-05-24";
         CMutableTransaction txNew;
